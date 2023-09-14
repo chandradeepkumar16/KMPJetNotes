@@ -1,4 +1,16 @@
+
 # Compose Multiplatform Application
+
+## Android and Desktop App
+
+![App Screenshot](https://github.com/chandradeepkumar16/KMPJetNotes/assets/62211734/d1e28311-59c2-4de9-b86f-7f7978cf5051)
+
+## Web App
+
+
+![App Screenshot](https://github.com/chandradeepkumar16/KMPJetNotes/assets/62211734/2b366383-05e9-4203-9bd1-c08d1bb01fdd)
+
+# Instructions
 
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
